@@ -1218,7 +1218,7 @@
         <version.apacheds>2.0.0.AM26</version.apacheds>
         <version.apache-shared-ldap>0.9.19</version.apache-shared-ldap>
         <version.exec.maven>1.6.0</version.exec.maven>
-        <version.hibernate>5.4.24.Final</version.hibernate>
+        <version.hibernate>5.6.10.Final</version.hibernate>
         <version.spotbugs.maven>4.7.0.0</version.spotbugs.maven>
         <version.spotbugs>4.7.0</version.spotbugs>
         <version.springframework>5.2.22.RELEASE</version.springframework>
